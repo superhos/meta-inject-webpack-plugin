@@ -1,0 +1,12 @@
+{
+  "name": "meta-inject-webpack-plugin",
+  "version": "1.0.4",
+  "description": "Webpack plugin to inject meta tag to Html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sevenschan",
+  "license": "ISC"
+}
